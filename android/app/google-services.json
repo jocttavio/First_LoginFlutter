@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "79409998879",
+    "project_id": "authlogin-3a3f9",
+    "storage_bucket": "authlogin-3a3f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:79409998879:android:9f839b5ef1c07a33d6f92a",
+        "android_client_info": {
+          "package_name": "com.example.login_first"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "79409998879-5bdrbp7gvn74l48ee3pucavthm1uf5pe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5QB4Mz-TD0yieb7nq9gYgJsfvID8Aq5g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "79409998879-5bdrbp7gvn74l48ee3pucavthm1uf5pe.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "79409998879-dror11jdhdikob66fehcgj9epd2hacnc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.loginFirst"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
